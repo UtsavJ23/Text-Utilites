@@ -1,4 +1,4 @@
-### To go to the site click [Text Utilities)(https://textutils-proj.netlify.app/)
+### To go to the site click [Text Utilities](https://textutils-proj.netlify.app/)
 
 # Getting Started with Create React App
 
