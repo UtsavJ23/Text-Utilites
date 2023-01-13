@@ -1,4 +1,4 @@
-#[TextUtils - Text Utilities](https://textutils-proj.netlify.app/)
+# [TextUtils - Text Utilities](https://textutils-proj.netlify.app/)
 
 This project was made by [Utsav Jha](https://github.com/UtsavJ23).
 
