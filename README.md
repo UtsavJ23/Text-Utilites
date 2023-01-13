@@ -1,8 +1,8 @@
-### To go to the site click [Text Utilities](https://textutils-proj.netlify.app/)
+#[TextUtils - Text Utilities](https://textutils-proj.netlify.app/)
 
-# Getting Started with Create React App
+This project was made by [Utsav Jha](https://github.com/UtsavJ23).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a basic text editor where you can covert text to lower case or upper case.
 
 ## Available Scripts
 
